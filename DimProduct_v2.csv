@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,SupplierID
+P0001,Wireless Mouse,Electronics,General,4916,5950,S05
+P0002,Gaming Keyboard,Electronics,General,1531,7193,S05
+P0003,Laptop,Electronics,General,1457,7500,S01
+P0004,Bluetooth Speaker,Electronics,General,1535,925,S05
+P0005,Smartphone,Electronics,General,2260,2458,S05
+P0006,Tablet,Electronics,General,2364,4336,S04
+P0007,External Hard Drive,Electronics,General,3740,7701,S05
+P0008,USB-C Charger,Electronics,General,2297,2805,S01
+P0009,Noise Cancelling Headphones,Electronics,General,1999,2473,S02
+P0010,Smartwatch,Electronics,General,3176,7866,S03
+P0011,LED Monitor,Electronics,General,616,4798,S04
+P0012,Webcam,Electronics,General,522,3738,S01
+P0013,Router,Electronics,General,889,4583,S01
+P0014,Power Bank,Electronics,General,2253,5426,S05
+P0015,Graphic Tablet,Electronics,General,1088,5813,S03
+P0016,Air Conditioner,Home Appliances,General,743,4909,S05
+P0017,Refrigerator,Home Appliances,General,4542,5078,S02
+P0018,Washing Machine,Home Appliances,General,3299,4848,S01
+P0019,Microwave Oven,Home Appliances,General,1331,2061,S03
+P0020,Electric Kettle,Home Appliances,General,2201,2154,S05
+P0021,Ceiling Fan,Home Appliances,General,1052,5280,S02
+P0022,Vacuum Cleaner,Home Appliances,General,4797,4864,S01
+P0023,Water Purifier,Home Appliances,General,1381,2141,S05
+P0024,Induction Stove,Home Appliances,General,2094,2932,S01
+P0025,Mixer Grinder,Home Appliances,General,4388,6305,S05
+P0026,Room Heater,Home Appliances,General,1295,4290,S02
+P0027,Dishwasher,Home Appliances,General,2330,7193,S04
+P0028,Office Chair,Furniture,General,1324,1657,S01
+P0029,Study Table,Furniture,General,3526,6967,S05
+P0030,Wooden Wardrobe,Furniture,General,598,7076,S01
+P0031,Sofa Set,Furniture,General,4813,6463,S01
+P0032,Dining Table,Furniture,General,977,4371,S02
+P0033,Bookshelf,Furniture,General,4777,4863,S02
+P0034,TV Stand,Furniture,General,3297,1810,S04
+P0035,Coffee Table,Furniture,General,1366,5938,S02
+P0036,Bed Frame,Furniture,General,3159,4970,S01
+P0037,Mattress,Furniture,General,4110,4387,S03
+P0038,Product Variant 38,Electronics,General,4027,3007,S05
+P0039,Product Variant 39,Electronics,General,1081,7779,S05
+P0040,Product Variant 40,Electronics,General,1425,2376,S02
+P0041,Product Variant 41,Electronics,General,3768,4904,S02
+P0042,Product Variant 42,Electronics,General,750,7100,S02
+P0043,Product Variant 43,Electronics,General,3706,7932,S04
+P0044,Product Variant 44,Electronics,General,1674,7143,S05
+P0045,Product Variant 45,Electronics,General,3784,1060,S04
+P0046,Product Variant 46,Electronics,General,1736,2214,S05
+P0047,Product Variant 47,Electronics,General,2029,7829,S03
+P0048,Product Variant 48,Electronics,General,2988,3721,S01
+P0049,Product Variant 49,Electronics,General,4736,5869,S04
+P0050,Product Variant 50,Electronics,General,2281,613,S01
