@@ -40,3 +40,20 @@ Inventory Value
 Inventory Turnover
 
 Days of Supply
+
+
+
+week2:
+
+Page 1 – Inventory Overview
+This page provides an executive-level summary of inventory health and operational efficiency.
+
+Key Highlights:
+Gross & Net Inventory Value
+Inventory Turnover Ratio
+Days of Supply
+Projected Inventory Balance
+Fast & Slow Moving Product Analysis
+Procurement Fulfillment Performance
+Inventory Distribution by Category & Warehouse
+Dashboard Preview
