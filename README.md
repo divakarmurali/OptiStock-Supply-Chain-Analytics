@@ -1,3 +1,7 @@
+Project Link (PowerBi service) : https://app.powerbi.com/groups/me/reports/cfdb572b-9db3-4baf-b6e0-4d868241c320/c05d0f285643c68f6a06?experience=power-bi
+
+
+
 OptiStock – Supply Chain & Inventory Optimization
 Internship Project 3 – Week 1
 Objective
